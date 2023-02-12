@@ -1,0 +1,8 @@
+.elementor-2354 .elementor-element.elementor-element-4fb0c3d.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-2354 .elementor-element.elementor-element-a05d71c{text-align:center;}.elementor-2354 .elementor-element.elementor-element-a05d71c .elementor-heading-title{color:var( --e-global-color-53c64d8 );}.elementor-2354 .elementor-element.elementor-element-a05d71c > .elementor-widget-container{margin:20px 0px 20px 0px;}.elementor-2354 .elementor-element.elementor-element-95cd1fe{width:var( --container-widget-width, 80% );max-width:80%;--container-widget-width:80%;--container-widget-flex-grow:0;}/* Start custom CSS for column, class: .elementor-element-4fb0c3d */.wpuf-fields .textfield {
+    width: 100%;
+    max-width: 100%;
+}
+
+.wpuf-fields select:not([multiple]) {
+    width: 100%;
+}/* End custom CSS */
